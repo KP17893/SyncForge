@@ -1,6 +1,6 @@
 # SyncForge - Real-Time Collaborative Coding Platform
 
-CollabEdit is a feature-rich, real-time collaborative code editor and workspace designed for remote developer pair programming, technical interviews, and team workshops. It supports real-time document synchronization, multi-language editing, live WebRTC voice calling, and AI code assistance.
+SyncForge is a feature-rich, real-time collaborative code editor and workspace designed for remote developer pair programming, technical interviews, and team workshops. It supports real-time document synchronization, multi-language editing, live WebRTC voice calling, and AI code assistance.
 
 ---
 
@@ -71,4 +71,3 @@ To collaborate with another device (such as a laptop, phone, or tablet) connecte
 - `npm start` - Runs the production server using Node.js.
 
 
-# SyncForge
